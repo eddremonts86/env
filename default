@@ -1,0 +1,11 @@
+NODE_ENV=development
+VUE_APP_TITLE=Billboard - Local
+VUE_APP_Spotify_Client_ID=d5f17a8b349c4bfda64617055a1b9a19
+VUE_APP_Spotify_Token=""
+VUE_APP_Spotify_baseUrl=https://accounts.spotify.com
+VUE_APP_Spotify_baseUrl_authorize=https://accounts.spotify.com/authorize
+VUE_APP_Spotify_redirect_uri=http://localhost:8080/callback/
+VUE_APP_Spotify_response_type=code
+VUE_APP_Spotify_Scope=playlist-modify-private playlist-read-private
+VUE_APP_GalactusAPI_URL_BASE=http://int.indexprestige.com/galactus-api
+ 
